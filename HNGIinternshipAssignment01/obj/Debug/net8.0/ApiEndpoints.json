@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HNGInternshipAssignment01.Controllers.HNGInternsController",
+    "Method": "GetInfo",
+    "RelativePath": "api/HNGInterns",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
