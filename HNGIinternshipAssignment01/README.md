@@ -34,6 +34,7 @@ This is a simple public API that returns basic information, including:
    ```
 
 ## API Documentation
+## Base Url: `https://hnginternship-ass0.onrender.com/api/HNGInterns`
 ### Endpoint: GET `/api/hngintern`
 #### Response Format (200 OK)
 ```json

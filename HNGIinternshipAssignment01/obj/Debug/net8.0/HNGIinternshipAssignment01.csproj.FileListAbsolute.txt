@@ -30,3 +30,4 @@ C:\Users\Administrator\source\repos\HNGIinternshipAssignment01\HNGIinternshipAss
 C:\Users\Administrator\source\repos\HNGIinternshipAssignment01\HNGIinternshipAssignment01\obj\Debug\net8.0\HNGIinternshipAssignment01.pdb
 C:\Users\Administrator\source\repos\HNGIinternshipAssignment01\HNGIinternshipAssignment01\obj\Debug\net8.0\HNGIinternshipAssignment01.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\HNGIinternshipAssignment01\HNGIinternshipAssignment01\obj\Debug\net8.0\ref\HNGIinternshipAssignment01.dll
+C:\Users\Administrator\source\repos\HNGIinternshipAssignment01\HNGIinternshipAssignment01\obj\Debug\net8.0\HNGIinternshipAssignment01.sourcelink.json
